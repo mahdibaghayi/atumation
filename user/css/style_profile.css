@@ -1,0 +1,85 @@
+﻿.div_top_left{
+    width: 100%;
+    height: 200px;
+    background-color: c0ddfe;
+    border: solid 86bfff;
+    border-radius: 4px;
+
+}
+.image_personel{
+    width: 140px;
+    height: 140px;
+    margin: 12px;
+    border-radius: 3px;
+}
+.image_user_right{
+ width: 43;
+    height: 43;
+    border-radius: 100%;
+    float: left;
+
+}
+
+.content{
+margin: 0px;
+}
+.div_top_right{
+width: auto;
+height: auto;
+float: right;
+text-align:center;
+}
+p{
+float: left;
+}
+h4{
+    float: right;
+}
+.span_Specifications_user{
+color:17375a ;
+}
+h5{
+color: 2b7858;
+margin-right: 4px;
+margin-left:  70px;
+
+}
+.tabel_Specifications{
+
+  width: 100%;
+  text-align: right;
+
+}
+td{
+padding-bottom: 30px;
+}
+body{
+
+background-color: dceafa;
+}
+.div_botoom{
+width: 100%;
+height: 100%;
+background-color: dceafa;
+float: left;
+}
+.div_marquee_text{
+    width:100%;
+    height: 25px;
+    background-color: #800000;
+float: right;
+text-align:left;
+
+
+}
+input[type=file]{
+float: left;
+margin-top: 1px;
+color: #00FFFF;
+width: 190px;
+}
+.submit_update_pesonel{
+float: left;
+
+}
+
